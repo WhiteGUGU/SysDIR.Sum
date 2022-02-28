@@ -6,5 +6,5 @@
 | ---------------- | ------------------------------------------------------------ |
 | 2021/12/30       | **Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing**. SOSP (2021). [Paper](https://dl.acm.org/doi/10.1145/3477132.3483551) |
 | Sharer: *xsPeng* | Author: *Adar Zeitak, Adam Morrison*                         |
-| before           | Please Turn To *[Syslab PaperSharing List 2020]()*           |
+| Former Papers    | Please Turn To *[SyslabPaper2020](./SyslabPaper2020.md)*     |
 
