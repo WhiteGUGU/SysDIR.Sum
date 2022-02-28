@@ -4,12 +4,19 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
-| 2022/2/24         | **Unlimited Vector Extension with Data Streaming Support**. ISCA (2021). [Paper](https://ieeexplore.ieee.org/document/9499750) |
+| 2022/02/24        | **Unlimited Vector Extension with Data Streaming Support**. ISCA (2021). [Paper](https://ieeexplore.ieee.org/document/9499750) |
 | Sharer: *fcQiao*  | Author: *Joao Mario Domingos, Nuno Neves, Nuno Roma, Pedro Tomas* |
-| 2022/2/17         | **iGUARD: In-GPU Advanced Race Detection**. SOSP (2021). [Paper](https://dl.acm.org/doi/10.1145/3477132.3483545) |
+| 2022/02/17        | **iGUARD: In-GPU Advanced Race Detection**. SOSP (2021). [Paper](https://dl.acm.org/doi/10.1145/3477132.3483545) |
 | Sharer: *jlWang*  | Author: *Aditya K. Kamath, Arkaprava Basu*                   |
-| 2022/2/10         | **Marius: Learning Massive Graph Embeddings on a Single Machine**. OSDI (2021). [Paper](https://www.usenix.org/conference/osdi21/presentation/mohoney) |
+| 2022/02/10        | **Marius: Learning Massive Graph Embeddings on a Single Machine**. OSDI (2021). [Paper](https://www.usenix.org/conference/osdi21/presentation/mohoney) |
 | Sharer: *ytXiong* | Author: *Jason Mohoney, Roger Waleffe, Henry Xu, Theodoros Rekatsinas, Shivaram Venkataraman* |
-| 2022/1/27         | **Preventing Use-After-Free Attacks with Fast Forward Allocation**. USS (2021). [Paper](https://www.usenix.org/conference/usenixsecurity21/presentation/wickman) |
+| 2022/01/27        | **Preventing Use-After-Free Attacks with Fast Forward Allocation**. USS (2021). [Paper](https://www.usenix.org/conference/usenixsecurity21/presentation/wickman) |
 | Sharer: *sYan*    | Author: *Brian Wickman, Hong Hu, Insu Yun, Daehee Jang, JungWon Lim, Sanidhya Kashyap, Taesoo Kim* |
+| 2022/01/21        | **Formally Verified Memory Protection for a Commodity Multiprocessor Hypervisor**. USS (2021). [Paper](https://www.usenix.org/conference/usenixsecurity21/presentation/li-shih-wei) |
+| Sharer: *ykMa*    | Author: *Shih-Wei Li, Xupeng Li, Ronghui Gu, Jason Nieh, John Zhuang Hui* |
+| 2022/01/14        | **MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation**. OSDI (2021). [Paper](https://www.usenix.org/conference/osdi21/presentation/kumar) |
+| Sharer: *clYu*    | Author: *Sam Kumar, David E. Culler, Raluca Ada Popa*        |
+| 2022/01/07        | **Vector Runahead**. ISCA (2021). [Paper](https://ieeexplore.ieee.org/document/9499866) |
+| Sharer: *zwSun*   | Author: *Ajeya Naithani, Sam Ainsworth, Timothy M. Jones, Lieven Eeckhou* |
+| before            | Please Turn To *[Syslab PaperSharing List 2021]()*           |
 
