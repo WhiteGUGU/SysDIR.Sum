@@ -10,4 +10,6 @@
 | Sharer: *jlWang*  | Author: *Aditya K. Kamath, Arkaprava Basu*                   |
 | 2022/2/10         | **Marius: Learning Massive Graph Embeddings on a Single Machine**. OSDI (2021). [Paper](https://www.usenix.org/conference/osdi21/presentation/mohoney) |
 | Sharer: *ytXiong* | Author: *Jason Mohoney, Roger Waleffe, Henry Xu, Theodoros Rekatsinas, Shivaram Venkataraman* |
+| 2022/1/27         | **Preventing Use-After-Free Attacks with Fast Forward Allocation**. USS (2021). [Paper](https://www.usenix.org/conference/usenixsecurity21/presentation/wickman) |
+| Sharer: *sYan*    | Author: *Brian Wickman, Hong Hu, Insu Yun, Daehee Jang, JungWon Lim, Sanidhya Kashyap, Taesoo Kim* |
 
