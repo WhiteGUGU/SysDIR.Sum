@@ -4,9 +4,9 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
-| 2022/03/03        | **DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware**. MACRO (2021). [Paper](DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware ) |
+| 2022/03/03        | **DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware**. MACRO (2021). [Paper](https://dl.acm.org/doi/10.1145/3466752.3480112) |
 | Sharer: *clYu*    | Author: *Hanieh Hashemi, Yongqin Wang, Murali Annavaram*     |
-|                   | **Delphi: A Cryptographic Inference Service for Neural Networks**. USS(2020). [Paper](Delphi: A Cryptographic Inference Service for Neural Networks ) |
+|                   | **Delphi: A Cryptographic Inference Service for Neural Networks**. USS (2020). [Paper](https://www.usenix.org/conference/usenixsecurity20/presentation/mishra) |
 |                   | Author: *Pratyush Mishra, Ryan Lehmkuhl, Akshayaram Srinivasan, Wenting Zheng, Raluca Ada Popa* |
 |                   | **Privid: Practical, Privacy-Preserving Video Analytics Queries**. NSDI (2022). [Paper] |
 |                   | Author: *Frank Cangialosi, Neil Agarwal, Venkat Arun, Junchen Jiang, Srinivas Narayana, Anand Sarwate, Ravi Netravali* |
