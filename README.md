@@ -4,6 +4,12 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/03/03        | **DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware**. MACRO (2021). [Paper](https://dl.acm.org/doi/10.1145/3466752.3480112) |
+| Sharer: *clYu*    | Author: *Hanieh Hashemi, Yongqin Wang, Murali Annavaram*     |
+|                   | **Delphi: A Cryptographic Inference Service for Neural Networks**. USS (2020). [Paper](https://www.usenix.org/conference/usenixsecurity20/presentation/mishra) |
+|                   | Author: *Pratyush Mishra, Ryan Lehmkuhl, Akshayaram Srinivasan, Wenting Zheng, Raluca Ada Popa* |
+|                   | **Privid: Practical, Privacy-Preserving Video Analytics Queries**. NSDI (2022). [Paper] |
+|                   | Author: *Frank Cangialosi, Neil Agarwal, Venkat Arun, Junchen Jiang, Srinivas Narayana, Anand Sarwate, Ravi Netravali* |
 | 2022/02/24        | **Unlimited Vector Extension with Data Streaming Support**. ISCA (2021). [Paper](https://ieeexplore.ieee.org/document/9499750) |
 | Sharer: *fcQiao*  | Author: *Joao Mario Domingos, Nuno Neves, Nuno Roma, Pedro Tomas* |
 | 2022/02/17        | **iGUARD: In-GPU Advanced Race Detection**. SOSP (2021). [Paper](https://dl.acm.org/doi/10.1145/3477132.3483545) |
