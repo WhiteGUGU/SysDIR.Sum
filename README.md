@@ -4,6 +4,8 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/06/09        | **Fireworks: a fast, efficient, and safe serverless framework using VM-level post-JIT snapshot**. EuroSys (2022). [Paper](https://dl.acm.org/doi/abs/10.1145/3492321.3519581) |
+| Sharer: *ykMa*    | Authors: *Wonseok Shin, Wook-Hee Kim, Changwoo Min*          |
 | 2022/06/02        | **Bao: Making Learned Query Optimization Practical**. SIGMOD (2021). [Paper](https://dl.acm.org/doi/10.1145/3448016.3452838) |
 | Sharer: *fcQiao*  | Author: *Ryan Marcus, Parimarjan Negi, Hongzi Mao, Nesime Tatbul, Mohammad Alizadeh, Tim Kraska* |
 | 2022/05/26        | **BiSon-e: a lightweight and high-performance accelerator for narrow integer linear a lgebra computing on the edge**.  ASPLOS (2022). [Paper](https://dl.acm.org/doi/10.1145/3503222.3507746) |
