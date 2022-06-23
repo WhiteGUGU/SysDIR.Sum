@@ -4,6 +4,8 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/06/23        | **NeutronStar: Distributed GNN Training with Hybrid Dependency Management**. SIGMOD (2022). [Paper](https://dl.acm.org/doi/10.1145/3514221.3526134) |
+| Sharer: *ytXiong* | Authors: *Qiange Wang, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu* |
 | 2022/06/16        | **Modernizing File System through In-Storage Indexing**. OSDI (2021). [Paper](https://www.usenix.org/conference/osdi21/presentation/koo) |
 | Sharer: *xpFan*   | Authors: *Jinhyung Koo, Junsu Im, Jooyoung Song, Juhyung Park, Eunji Lee, Bryan S. Kim, Sungjin Lee* |
 | 2022/06/09        | **Fireworks: a fast, efficient, and safe serverless framework using VM-level post-JIT snapshot**. EuroSys (2022). [Paper](https://dl.acm.org/doi/abs/10.1145/3492321.3519581) |
