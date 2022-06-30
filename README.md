@@ -4,6 +4,8 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/06/30        | **EIGNN: Efficient Infinite-Depth Graph Neural Networks**. NeurIPS (2021). [Paper](https://proceedings.neurips.cc/paper/2021/hash/9bd5ee6fe55aaeb673025dbcb8f939c1-Abstract.html) |
+| Sharer: *swWu*    | Authors: *Juncheng Liu, Kenji Kawaguchi, Bryan Hooi, Yiwei Wang, Xiaokui Xiao* |
 | 2022/06/23        | **NeutronStar: Distributed GNN Training with Hybrid Dependency Management**. SIGMOD (2022). [Paper](https://dl.acm.org/doi/10.1145/3514221.3526134) |
 | Sharer: *ytXiong* | Authors: *Qiange Wang, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu* |
 | 2022/06/16        | **Modernizing File System through In-Storage Indexing**. OSDI (2021). [Paper](https://www.usenix.org/conference/osdi21/presentation/koo) |
