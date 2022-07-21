@@ -4,6 +4,12 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/07/21        | **XRP: In-Kernel Storage Functions with eBPF**. OSDI (2022). [Paper](https://www.usenix.org/conference/osdi22/presentation/zhong) |
+| Sharer: *sYan*    | Authors: *Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris,  Junfeng Yang,  Amy Tai, Ryan Stutsman,  Asaf Cidon* |
+| 2022/07/14        | **Memory deduplication for serverless computing with Medes**. EuroSys (2022). [Paper](https://dl.acm.org/doi/10.1145/3492321.3524272) |
+| Sharer: *xsPeng*  | Authors: *Divyanshu Saxena,  Tao Ji,  Arjun Singhvi,  Junaid Khalid, Aditya Akella* |
+| 2022/07/07        | **The Power of Nested Parallelism in Big Data Processing - Hitting Three Flies with One Slap**. SIGMOD (2021). [Paper](https://dl.acm.org/doi/10.1145/3448016.3457287) |
+| Sharer: *jlWang*  | Authors: *Gábor E. Gévay,  Jorge-Arnulfo Quiané-Ruiz,  Volker Markl* |
 | 2022/06/30        | **EIGNN: Efficient Infinite-Depth Graph Neural Networks**. NeurIPS (2021). [Paper](https://proceedings.neurips.cc/paper/2021/hash/9bd5ee6fe55aaeb673025dbcb8f939c1-Abstract.html) |
 | Sharer: *swWu*    | Authors: *Juncheng Liu, Kenji Kawaguchi, Bryan Hooi, Yiwei Wang, Xiaokui Xiao* |
 | 2022/06/23        | **NeutronStar: Distributed GNN Training with Hybrid Dependency Management**. SIGMOD (2022). [Paper](https://dl.acm.org/doi/10.1145/3514221.3526134) |
