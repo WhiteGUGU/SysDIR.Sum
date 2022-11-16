@@ -4,6 +4,8 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/11/10        | **Alastor: Reconstructing the Provenance  of Serverless Intrusions**. USENIX Security Symposium (2022). [Paper](https://www.usenix.org/conference/usenixsecurity22/presentation/datta) |
+| Sharer: *ykMa*    | Author: *Pubali Datta, Isaac Polinsky, Muhammad Adil Inam, Adam Bates, William Enck* |
 | 2022/07/28        | **Characterizing the Performance of Intel Optane Persistent Memory – A Close Look at its On-DIMM Buffering.** EuroSys (2022). [Paper](https://dl.acm.org/doi/abs/10.1145/3492321.3519556) |
 | Sharer: *whPang*  | Author: *Lingfeng Xiang, Xingsheng Zhao, Jia Rao, Song Jiang, Hong Jiang* |
 | 2022/07/21        | **XRP: In-Kernel Storage Functions with eBPF**. OSDI (2022). [Paper](https://www.usenix.org/conference/osdi22/presentation/zhong) |
