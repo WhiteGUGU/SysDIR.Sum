@@ -4,6 +4,8 @@
 
 | Data-Sharer       | Paper Info                                                   |
 | ----------------- | ------------------------------------------------------------ |
+| 2022/11/24        | **Confidence Bounded Replica Currency Estimation**. SIGMOD (2022). [Paper](https://dl.acm.org/doi/10.1145/3514221.3517852) |
+| Sharer: *xsPeng*  | Author: *Yu Sun , Zheng Zheng , Shaoxu Song , Fei Chiang*    |
 | 2022/11/10        | **Alastor: Reconstructing the Provenance  of Serverless Intrusions**. USENIX Security Symposium (2022). [Paper](https://www.usenix.org/conference/usenixsecurity22/presentation/datta) |
 | Sharer: *ykMa*    | Author: *Pubali Datta, Isaac Polinsky, Muhammad Adil Inam, Adam Bates, William Enck* |
 | 2022/07/28        | **Characterizing the Performance of Intel Optane Persistent Memory – A Close Look at its On-DIMM Buffering.** EuroSys (2022). [Paper](https://dl.acm.org/doi/abs/10.1145/3492321.3519556) |
